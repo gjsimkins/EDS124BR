@@ -6,3 +6,6 @@
 
 ## Explain Your Program #2: Repeats
 [Link](https://youtu.be/zS_AzIve0oY)
+
+## Explain Your Program #3: Bumblebee, Kangaroo, and Grasshopper
+[Link](https://youtu.be/jaEuLhrV3Pw)
