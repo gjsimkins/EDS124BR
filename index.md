@@ -9,3 +9,6 @@
 
 ## Explain Your Program #3: Bumblebee, Kangaroo, and Grasshopper
 [Link](https://youtu.be/jaEuLhrV3Pw)
+
+## Explain Your Program #4: Nested Repeats
+[Link](https://youtu.be/ACbbc2tJpk4)
