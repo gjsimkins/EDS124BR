@@ -15,3 +15,6 @@
 
 ## Explain Your Program #5: Events
 [Link](https://youtu.be/PhbQVwqD9EA)
+
+## Explain Your Program #6: Variables
+[Link](https://youtu.be/Mkok8O75DzU)
