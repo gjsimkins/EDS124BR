@@ -18,3 +18,6 @@
 
 ## Explain Your Program #6: Variables
 [Link](https://youtu.be/Mkok8O75DzU)
+
+## Explain Your Program #7: Conditional Loops
+[Link](https://youtu.be/Q9BPPTOq7bE)
