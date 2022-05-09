@@ -21,3 +21,6 @@
 
 ## Explain Your Program #7: Conditional Loops
 [Link](https://youtu.be/Q9BPPTOq7bE)
+
+## Explain Your Program #8: If Statements
+[Link](https://youtu.be/5GXWktbXtI0)
