@@ -24,3 +24,6 @@
 
 ## Explain Your Program #8: If Statements
 [Link](https://youtu.be/5GXWktbXtI0)
+
+## Explain Your Program #9: Nested If Statements
+[Link](https://youtu.be/mBZRvm93XF8)
