@@ -27,3 +27,6 @@
 
 ## Explain Your Program #9: Nested If Statements
 [Link](https://youtu.be/mBZRvm93XF8)
+
+## Explain Your Program #10: Compound Conditionals
+[Link](https://youtu.be/mgIpJutebuU)
