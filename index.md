@@ -33,3 +33,6 @@
 
 ## Explain Your Program #11: Abstraction
 [Link](https://youtu.be/IMil0mKP0lg)
+
+## Explain Your Program #12: Lists
+[Link](https://youtu.be/ZQoBO2lPy-U)
